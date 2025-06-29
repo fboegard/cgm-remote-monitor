@@ -772,6 +772,8 @@ For remote overrides, the following extended settings must be configured:
   * `target_high` - Upper target for correction boluses.
   * `target_low` - Lower target for correction boluses.
 
+test
+
   Some example profiles are [here](docs/plugins/example-profiles.md).
 
 ## Setting environment variables
